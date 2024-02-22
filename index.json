@@ -3320,5 +3320,32 @@
         "sha512": "2a7a17f348f6631e10217d689456ddeceaf768e06267a76a93335a8fb0ee57dfda88e84830536eb478977e423d3add9ff0590839b8736e465e216d0d81f474e9",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/DIY/db15-0203-11003001-z03mmc.zigbee",
         "path": "images/DIY/db15-0203-11003001-z03mmc.zigbee"
+    },
+    {
+        "fileVersion": 33753087,
+        "fileSize": 340031,
+        "manufacturerCode": 4190,
+        "imageType": 55,
+        "sha512": "18b1d8028a3de3cf5c28fb442779daa74d5d13bb1f782021db03b945bd02aaa85cf20de17cd23f3d9fbf73224c68a68caa2ad3527ce20913844668161f653c70",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/SchneiderElectric/1622438235e5764b7a861.zigbee",
+        "path": "images/SchneiderElectric/1622438235e5764b7a861.zigbee"
+    },
+    {
+        "fileVersion": 34212095,
+        "fileSize": 337195,
+        "manufacturerCode": 4190,
+        "imageType": 53,
+        "sha512": "15188628b13c26b577aa4a9f82a4a411debc7125e19cb13d3d1612095c87c51b9f186e01b33a0f798c3a6875dc68c9f36a614372fe6523cda8e47b045a1a76ba",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/SchneiderElectric/16781822109542aac900a.zigbee",
+        "path": "images/SchneiderElectric/16781822109542aac900a.zigbee"
+    },
+    {
+        "fileVersion": 33884671,
+        "fileSize": 337211,
+        "manufacturerCode": 4190,
+        "imageType": 54,
+        "sha512": "50abcc9a6f6351a9bf45994c09b6681cfb255ce617ec299539a937b70fac16110824600269062c5a086b9749a29caf4efe5b3d694e91b04b099efa84b6ba356c",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/SchneiderElectric/1678411825b98a1530a8c.zigbee",
+        "path": "images/SchneiderElectric/1678411825b98a1530a8c.zigbee"
     }
 ]

@@ -41,6 +41,7 @@ const manufacturerNameLookup = {
     4877: 'thirdreality',
     4636: 'Aurora',
     56085: 'DIY',
+    4190: 'SchneiderElectric',
 };
 
 const main = async () => {
