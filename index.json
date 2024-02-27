@@ -3347,5 +3347,14 @@
         "sha512": "50abcc9a6f6351a9bf45994c09b6681cfb255ce617ec299539a937b70fac16110824600269062c5a086b9749a29caf4efe5b3d694e91b04b099efa84b6ba356c",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/SchneiderElectric/1678411825b98a1530a8c.zigbee",
         "path": "images/SchneiderElectric/1678411825b98a1530a8c.zigbee"
+    },
+    {
+        "fileVersion": 33686015,
+        "fileSize": 341010,
+        "manufacturerCode": 4190,
+        "imageType": 79,
+        "sha512": "4b373c33ca742bdb85d9bd7665545be34e4e9660c94218f02c3754f2c9eb4129a428e51b4fe7ccab29f3ee53537b9301cc43b1dbf4c12dae4377025a23848eb8",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/SchneiderElectric/16819629247ee0445a5f4.zigbee",
+        "path": "images/SchneiderElectric/16819629247ee0445a5f4.zigbee"
     }
 ]
